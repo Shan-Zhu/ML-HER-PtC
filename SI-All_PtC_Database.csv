@@ -1,0 +1,212 @@
+DOI,Name,Electrolyte,Material-1,Material-2,Material-3,Mass loading (mg/cm2),Geometric Pt loading (ug/cm2),Pt wt%,Pt type,Pt size (nm),Carbon type,Doped type,Doped wt%,ID/IG ratio,SSA for Sample (m2/g),Pore size (nm),Pore volume (cm3/g),SSA for Carbon (m2/g),Pore size for Carbon (nm),Pover volume for Carbon (cm3/g),Overpotential (mV)@10(mA/cm2),Tafel Plot,Rct,TOF (H2/s),Faradadic Efficiency,ECSA (m/g) ,Mass Activity (A/mg pt-1)
+10.1039/c9ta04010b,Pt/CNTS-ECR,0.5M H2SO4 ,Pt,C,,0.14,,0.35,cluster,1,CNT,0,0,0.63,,,,92.85,13.26,0.348,34,26,2.5,5.02E-08,,,
+10.1039/c9ta04010b,Pt/CNTS-CR,0.5M H2SO4 ,Pt,C,,0.14,,0.21,cluster,4,CNT,0,0,0.3,,,,92.85,13.26,0.348,110,39,,2.20E-08,,,
+10.1039/c9ta04010b,20 Pt/C,,Pt,C,,0.14,,19,,,,0,0,,,,,,,,43,30,,5.80E-08,,,
+10.1039/c9ta04010b,Pt/CNTS-ECR,0.1M H2SO4 ,Pt,C,,0.14,,0.35,cluster,1,CNT,0,0,0.63,,,,92.85,13.26,0.348,30,26,4.8,,,,
+10.1039/c9ta04010b,Pt/CNTS-ECR,0.2M H2SO4 ,Pt,C,,0.14,,0.35,cluster,1,CNT,0,0,0.63,,,,92.85,13.26,0.348,31,,3.4,,,,
+10.1039/c9ta04010b,Pt/CNTS-ECR,0.3 MH2SO4 ,Pt,C,,0.14,,0.35,cluster,1,CNT,0,0,0.63,,,,92.85,13.26,0.348,32,,3.6,,,,
+10.1016/j.jcat.2018.11.006,PtNP/OMC,0.5M H2SO4 ,Pt,C,,,1.6,2.3,nanoparticles,2.1,mesoporours carbon,0,0,,660,4.9,0.67,,,,26.2,,,,,,
+10.1016/j.jcat.2018.11.006,PtNP/OMC,0.5M H2SO4 ,Pt,C,,,0.8,2.3,nanoparticles,2.1,mesoporours carbon,0,0,,660,4.9,0.67,,,,31.2,,,,,,
+10.1016/j.jcat.2018.11.006,PtNP/OMC,0.5M H2SO4 ,Pt,C,,,1.1,2.3,nanoparticles,2.1,mesoporours carbon,0,0,,660,4.9,0.67,,,,33.2,32,,,,,
+10.1007/s11051-018-4436-7,Pt/rGO,0.1M KOH,Pt,C,,,0.052,40,nanoparticles,20,rGO,0,0,1.21,,,,,,,149,88,,,,54.5,
+10.1149/2.0981501jes,Pt/C,0.5M H2SO4 ,Pt,C,,,2,4.7,nanoparticles,2.2,Vulcan carbon,,,,,,,250,30,,,,,,,,
+10.3389/fchem.2018.00523,Pt/CF50,1M H2SO4 ,Pt,C,,,7.5,,,43,3D carbon,,,,,,,,,,160,128,,,,11.066,
+10.3389/fchem.2018.00523,Pt/CF100,1M H2SO4 ,Pt,C,,,32.5,,,45,,,,,,,,,,,58,118,,,,5.877,
+10.3389/fchem.2018.00523,Pt/CF200,1M H2SO4 ,Pt,C,,,59,,,56,,,,,,,,,,,25,42,,,,6.322,
+10.3389/fchem.2018.00523,Pt/CF300,1M H2SO4 ,Pt,C,,,101.5,,,70,,,,,,,,,,,38,126,,,,6.732,
+10.1039/c9ta07469d,Pt/NMC-LT,0.5M H2SO4,Pt,C,,,10,1.58,atoms,single,NMC(XFNANO),N,18.8,1,,,,490.8,4.61,0.69,17,26.2,6,,,,
+10.1039/c9ta07469d,Pt/NMC-RT,0.5M H2SO4,Pt,C,,0.265,10,1.7,cluster,1,NMC(XFNANO),N,18.8,1,,,,490.8,4.61,0.69,49.1,30.3,8.3,,,,
+10.1021/acs.jpcc.7b01447,A-CN(PDAP)NH3,0.5M H2SO4,Pt,C,,0.265,,1.5,nanoparticles,3,,N,12.4,0.96,,,,1129.26,,0.733,33.9,,,,,,
+10.1021/acs.jpcc.7b01447,A-CN(PDAP)Ar,0.5M H2SO4,Pt,C,,0.265,,0.8,nanoparticles,3,,N,9,0.91,,,,587.3,,0.341,16,,,,,,
+10.1021/acs.jpcc.7b01447,A-CN(PANI)NH3,0.5M H2SO4,Pt,C,,0.265,,0.95,nanoparticles,3,,N,11.2,0.92,,,,1020.36,,0.547,15.9,,,,,,
+10.1021/acs.jpcc.7b01447,A-CN(PANI)Ar,0.5M H2SO4,Pt,C,,0.265,,0.6,nanoparticles,3,,N,8.5,0.89,,,,248.52,,0.201,26.4,,,,,,
+10.1016/j.ijhydene.2019.10.036,Pt-NCS,0.5M H2SO4,Pt,C,,,6.4,5.7,nanoparticles,4.3,N-doped carbon,N,6,,,,,,,,22,30,6.2,0.56,,57.8,5.08
+10.1016/j.ijhydene.2019.10.036,Pt-CS,0.5M H2SO4,Pt,C,,,6.4,,,,,0,0,,,,,,,,27,,25.6,0.069,,27.2,2.42
+10.1016/j.ijhydene.2019.10.036,20 Pt/C,0.5M H2SO4,Pt,C,,,6.4,,,,,0,0,,,,,,,,41,,17.4,0.084,,44,0.57
+10.1002/chem.201900320,Pt@CNS,0.5M H2SO4,Pt,C,,,,0.07,nanosheets ,3,,,,0.8577,,,,118.14,,,400,72.25,23,,,,
+10.1002/chem.201900320,20 Pt/C,0.5M H2SO4,Pt,C,,,,,,,,,,,,,,,,,40,,,,,,
+10.1039/c9nj03675j,NCN-Pt-800,0.5M H2SO4,Pt,C,,,8.3,4.8,nanoparticles,2.85,Nitrogen-doped carbon nanofibers,N,4.3,0.96,401,55,,426,,,35,45,9.6,,,,
+10.1039/c9nj03675j,NCN-Pt-900,0.5M H2SO4,Pt,C,,,8.3,4.8,nanoparticles,3.05,Nitrogen-doped carbon nanofibers,N,4.3,0.94,426,62,,426,,,34,39,0.9,,,,3.33
+10.1039/c9nj03675j,NCN-Pt-1000,0.5M H2SO4,Pt,C,,,8.3,4.8,nanoparticles,4.75,Nitrogen-doped carbon nanofibers,N,4.3,0.97,420,63,,426,,,38,44,53.6,,,,
+10.1039/c9nj03675j,20 Pt/C,0.5M H2SO4,Pt,C,,,,,,,,,,,,,,,,,36,35,,,,,0.635
+10.3389/fmats.2019.00251,Pt/VC,0.5M H2SO4,Pt,C,,,,3.2,,1.6,Vulcan Carbon,,,2.1,,,,,,,38,132.8,,,,,1
+10.3389/fmats.2019.00251,20 Pt/C,0.5M H2SO4,Pt,C,,,,,,3.3,,,,2.92,,,,,,,31,30.6,,,,,0.7
+10.1039/d0se00136h,Pt/ACNF-0,0.5M H2SO4,Pt,C,,,,4.41,nanoparticles,2.3,Nitrogen-doped carbon nanofibers,N,9.1,0.9,,,,,,,142,62,2.01,,,16.3,
+10.1039/d0se00136h,Pt/ACNF-I,0.5M H2SO4,Pt,C,,,,4.55,nanoparticles,2.3,Nitrogen-doped carbon nanofibers,N,9.6,0.89,,,,,,,73,37,1.65,,,73.34,
+10.1039/d0se00136h,Pt/ACNF-II,0.5M H2SO4,Pt,C,,,,13.99,nanoparticles,2.3,Nitrogen-doped carbon nanofibers,N,11.2,0.88,,,,,,,50,35,1.1,,,119.21,
+10.1039/d0se00136h,Pt/ACNF-II,0.5M H2SO4,Pt,C,,,,10.62,nanoparticles,2.3,Nitrogen-doped carbon nanofibers,N,9.7,0.92,,,,,,,121,90,1.73,,,68.23,
+10.1039/d0se00136h,20 Pt/C,0.5M H2SO4,Pt,C,,,,,,,,,,,,,,,,,27,31,,,,49.61,
+10.1007/s12274-016-1281-9,Pt/NPC,0.5M H2SO4,Pt,C,,0.28,,1.82,nanoparticles,1.8,3D carbon network co-doped with N and P,N,2,,,,,,,,19,58,,,,,
+10.1007/s12274-016-1281-9,20 Pt/C,0.5M H2SO4,Pt,C,,,,,,,,,,,,,,,,,19,,,,,,
+10.1039/c8sc04986f,Pt1/NMC,0.5M H2SO4,Pt,C,,0.01,10,2.54,atoms,0.1,Nitrogen-doped mesoporous carbon(XFNANO),N,,,,,,,,,26,29,,,,,
+10.1039/c8sc04986f,Pt/NMC,0.5M H2SO4,Pt,C,,,10,3.8,nanoparticles,,Nitrogen-doped mesoporous carbon(XFNANO),N,,,,,,,,,39,31,,,,,
+10.1039/c8sc04986f,20 Pt/C,0.5M H2SO4,Pt,C,,,10,,nanoparticles,,,,,,,,,,,,28,32,,,,,
+10.1039/c7ta07340b,Pt200-VGNSAs/CC,0.5M H2SO4,Pt,C,C,,41.92,,nanoplates,15,3D vertical graphene nanosheet arrays supported on carbon cloth,0,0,0.13,,,,,,,60,28.5,,,,72.26,
+10.1039/c7ta07340b,Pt300-VGNSAs/CC,0.5M H2SO4,Pt,C,C,,64.8,,nanoplates,15,3D vertical graphene nanosheet arrays supported on carbon cloth,0,0,0.13,,,,,,,76,31.7,,,,56.83,
+10.1039/c7ta07340b,Pt400-VGNSAs/CC,0.5M H2SO4,Pt,C,C,,90.24,,nanoplates,15,3D vertical graphene nanosheet arrays supported on carbon cloth,0,0,0.13,,,,,,,104,37.2,,,,34.54,
+10.1039/c7ta07340b,20wtPt/C/CC,0.5M H2SO4,Pt,C,C,,44,,nanoparticles,,carbon cloth,0,0,,,,,,,,85,32.4,,,,51.96,
+10.1016/j.nanoen.2017.07.032,Pt@NHPCP,0.1M HClO4,Pt,C,,,2,3.6,nanoparticles,3.2,nitrogen-doped hollow porous carbon polyhedrons,N,12.4,,516,13.6,0.74,,,,57,27,,,,,
+10.1016/j.nanoen.2017.07.032,Pt/C,0.1M HClO4,Pt,C,,,,,nanoparticles,,,,,,,,,,,,69.6,32,,,,,
+10.1002/anie.201804817,Pt-GDY1,0.5M H2SO4,Pt,C,,,4.65,,atoms,,Graphdiyne,,,,,,,,,,65.6,49,,,,7.26,
+10.1002/anie.201804817,Pt-GDY2,0.5M H2SO4,Pt,C,,,4.65,,atoms,,Graphdiyne,,,,,,,,,,34.6,38,,,,23.64,
+10.1002/anie.201804817,20 Pt/C,0.5M H2SO4,Pt,C,,,,,nanoparticles,,,,,,90,,,,,,35.3,34,,,,0.88,
+10.1039/c8ee02888e,Pt SASs/AG,0.5M H2SO4,Pt,C,,,,0.44,atoms,,aniline-stacked graphene,N,2.75,,,,,,,,12,29.33,,,,,22.4
+10.1039/c8ee02888e,20 Pt/C,0.5M H2SO4,Pt,C,,,,20,nanoparticles,,aniline-stacked graphene,,,,,,,,,,15,27,,,,,
+10.1016/j.electacta.2015.03.077,PtNPs/CNFs,0.5M H2SO4,Pt,C,,,,7,nanoparticles,8.8,carbon nanofibers ,,,,,,,,,,175,50,,,,,
+10.1016/j.electacta.2015.03.077,20 Pt/C,0.5M H2SO4,Pt,C,,,,20,nanoparticles,,,,,,,,,,,,48,24,,,,,
+10.1016/j.jpowsour.2020.227770,Pt-CQDs/GrC400 ,0.5M H2SO4,Pt,C,C,,,0.145,nanoparticle,4.1,carbon quantum dots/graphene,0,0,0.117,,,,,,,38,40,,,,,37.5
+10.1016/j.jpowsour.2020.227770,Pt-CQDs/Gr,0.5M H2SO4,Pt,C,C,,,0.698,nanoparticle,4.1,carbon quantum dots/graphene,0,0,0.207,,,,,,,49.5,64,,,,,4.07
+10.1016/j.jpowsour.2020.227770,Pt-CQDs/Graphite-C400 ,0.5M H2SO4,Pt,C,C,,,0.235,nanoparticle,4.1,carbon quantum dots/graphite,0,0,0.266,,,,,,,59.2,83,,,,,7.09
+10.1016/j.ijhydene.2018.03.142,"Ptnanoparticles@poly(3,4eethylene dioxythiophene) modified sulfonated graphene",0.5M H2SO4,Pt,C,O,,,25.5,nanoparticle,,graphene,s,4.94,2.72,,,,,8.4,,40,28.4,50,,,,
+10.1016/j.jcat.2017.08.005,Pt/OMC,0.5M H2SO4,Pt,C,,,1.2,2.7,nanoparticle,,mesporous carbon,,,,883,9,0.44,,,,37.1,38,,,,,15
+10.1016/j.jcat.2017.08.005,10 Pt/C,0.5M H2SO4,Pt,C,,,1,,nanoparticle,,Vulcan C,,,,,,,,,,31.7,32,,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (20mg),0.5M H2SO4,Pt,C,Mo2C(21.6wt%),,,7.49,nanoparticle,5,N-doped C Nanospheres,,,1.1,128.4,3.63,,,,,27,28,11.38,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (20mg),1M KOH,Pt,C,Mo2C(21.6wt%),,,7.49,nanoparticle,5,N-doped C Nanospheres,,,1.1,128.4,3.63,,,,,47,57,33.58,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (20mg),1M PBS,Pt,C,Mo2C(21.6wt%),,,7.49,nanoparticle,5,N-doped C Nanospheres,,,1.1,128.4,3.63,,,,,25,33,37.86,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (10mg),0.5M H2SO4,Pt,C,Mo2C,,,3.75,nanoparticle,5,N-doped C Nanospheres,,,1.11,136.6,3.63,,,,,29,30,18.65,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (10mg),1M KOH,Pt,C,Mo2C,,,3.75,nanoparticle,5,N-doped C Nanospheres,,,1.11,136.6,3.63,,,,,55,70,46.38,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (10mg),1M PBS,Pt,C,Mo2C,,,3.75,nanoparticle,5,N-doped C Nanospheres,,,1.11,136.6,3.63,,,,,62,86,162.6,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (30mg),0.5M H2SO4,Pt,C,Mo2C,,,11.24,nanoparticle,10,N-doped C Nanospheres,,,1,96.5,3.63,,,,,32,28,20.62,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (30mg),1M KOH,Pt,C,Mo2C,,,11.24,nanoparticle,10,N-doped C Nanospheres,,,1,96.5,3.63,,,,,,78,64.88,,,,
+10.1021/acsami.8b20209,Mo2C@NC@Pt nanospheres (30mg),1M PBS,Pt,C,Mo2C,,,11.24,nanoparticle,10,N-doped C Nanospheres,,,1,96.5,3.63,,,,,,74,122.2,,,,
+10.1021/acsami.8b20209,NC@Pt nanospheres,0.5M H2SO4,Pt,C,N,,,9.5,nanoparticle,5,N-doped C Nanospheres,,,1.04,109.75,3.63,,,,,32,30,,,,,
+10.1021/acsami.8b20209,NC@Pt nanospheres,1M KOH,Pt,C,N,,,9.5,nanoparticle,5,N-doped C Nanospheres,,,1.04,109.75,3.63,,,,,62,84,,,,,
+10.1021/acsami.8b20209,NC@Pt nanospheres,1M PBS,Pt,C,N,,,9.5,nanoparticle,5,N-doped C Nanospheres,,,1.04,109.75,3.63,,,,,,74,,,,,
+10.1021/acsami.8b20209,NC nanospheres,0.5M H2SO4,Pt,C,N,,,0,nanoparticle,5,N-doped C Nanospheres,,,1.18,160.63,3.63,,,,,660,198,,,,,
+10.1021/acsami.8b20209,NC nanospheres,1M KOH,Pt,C,N,,,0,nanoparticle,5,N-doped C Nanospheres,,,1.18,160.63,3.63,,,,,766,150,,,,,
+10.1021/acsami.8b20209,NC nanospheres,1M PBS,Pt,C,N,,,0,nanoparticle,5,N-doped C Nanospheres,,,1.18,160.63,3.63,,,,,694,124,,,,,
+10.1021/acsami.8b20209,20 Pt/C,0.5M H2SO4,,,,,,20,nanoparticle,,,,,,,,,,,,27,29,,,,,
+10.1021/acsami.8b20209,20 Pt/C,1M KOH,,,,,,20,nanoparticle,,,,,,,,,,,,37,30,,,,,
+10.1021/acsami.8b20209,20 Pt/C,1M PBS,,,,,,20,nanoparticle,,,,,,,,,,,,33,37,,,,,
+10.1016/j.electacta.2019.134895,Ni@Pt/NNPC,0.1M NaOH,Pt,C,Ni,,45,7,nanoparticle,19,,N,2.1,,110.1,14.01,0.4,,,,26.7,82.51,,,,,
+10.1016/j.electacta.2019.134895,Ni@Pt/NNPC,0.5MH2SO4,Pt,C,Ni,,45,7,nanoparticle,19,,N,2.1,,110.1,14.01,0.4,,,,65,69.25,,,,,
+10.1016/j.electacta.2019.134895,20 Pt/C,,,,,,,,,,,,,,,,,,,,13.4,,,,,,
+10.1016/j.electacta.2019.134895,20 Pt/C,,,,,,,,,,,,,,,,,,,,21.5,,,,,,
+10.1016/j.ijhydene.2011.12.109,Pt nanoparticle @ C,0.5M H2SO4,Pt,C,,,17,20,nanoparticle,2,carbon black Vulcan,,,,,,,,,,,,,,,47,
+10.1016/j.ijhydene.2011.12.109,20 Pt/C,0.5M H2SO4,,,,,17,,,,,,,,,,,,,,,,,,,52.01,
+10.1016/j.apsusc.2018.08.033,Pt@N-HCNs,0.5M H2SO4,Pt,C,N,,,7.5,nanoparticle,,N-doped hollow carbon nanospheres,N,8.82,1,,10.3,,,,,30,33,,,,,
+10.1016/j.apsusc.2018.08.033,5 Pt/C,0.5M H2SO4,,,,,,,,,,,,,,,,,,,29,31,,,,,
+10.1016/j.ijhydene.2016.08.066,Pt NCs/rGO,0.5M H2SO4,Pt,C,,0.17,,88.67,nanocrystals,34,rGO,,,1.25,,,,,,,84,49,,,,21.98,
+10.1016/j.ijhydene.2016.08.066,50 Pt/C,0.5M H2SO4,,,,0.17,,,,,,,,,,,,,,,50,35,,,,48.68,
+10.1021/acsami.6b03924,Pt@CTNC600,0.5M H2SO4,Pt,C,,,,0.13,nanoparticle,5,Nitrogen-Doped Carbon Films ,N,11.62,,,,,461,,0.67,210,148,,,,,
+10.1021/acsami.6b03924,Pt@CTNC700,0.5M H2SO4,Pt,C,,,,13.6,nanoparticle,5,Nitrogen-Doped Carbon Films ,N,7.22,,,,,491,,0.67,47,28,,,,,
+10.1021/acsami.6b03924,Pt@CTNC800,0.5M H2SO4,Pt,C,,,,31.4,nanoparticle,5,Nitrogen-Doped Carbon Films ,N,4.52,,,,,485,,0.67,50,29,,,,,
+10.1021/acsami.6b03924,Pt@CTNC900,0.5M H2SO4,Pt,C,,,,20.1,nanoparticle,5,Nitrogen-Doped Carbon Films ,N,3.05,,,,,509,,0.67,66,35,,,,,
+10.1021/acsami.6b03924,Pt@C-PAN-800,0.5M H2SO4,Pt,C,,,,,nanoparticle,5,Nitrogen-Doped Carbon Films ,N,9.22,,,,,70,,,,191,,,,,
+10.1021/acsami.6b03924,CTNC600,0.5M H2SO4,C,N,,,,0,,,Nitrogen-Doped Carbon Films ,N,11.62,,,,,461,,0.67,582,172,,,,,
+10.1021/acsami.6b03924,CTNC700,0.5M H2SO4,C,N,,,,0,,,Nitrogen-Doped Carbon Films ,N,7.22,,,,,491,,0.67,513,128,,,,,
+10.1021/acsami.6b03924,CTNC800,0.5M H2SO4,C,N,,,,0,,,Nitrogen-Doped Carbon Films ,N,4.52,,,,,485,,0.67,626,167,,,,,
+10.1021/acsami.6b03924,CTNC600,0.5M H2SO4,C,N,,,,0,,,Nitrogen-Doped Carbon Films ,N,3.05,,,,,509,,0.67,700,143,,,,,
+10.1021/acsami.6b03924,C-PAN-800,0.5M H2SO4,C,N,,,,0,,,Nitrogen-Doped Carbon Films ,N,9.22,,,,,70,,,,170,,,,,
+10.1021/acsami.6b03924,20 Pt/C,0.5M H2SO4,,,,,,,,,,,,,,,,,,,46.1,27,,,,,
+10.1016/j.electacta.2015.03.067,Pt/CFs,0.5M H2SO4,Pt,C,,,,2.03,,10,carbon fiber,,,,,,,,,,,97.8,10.8,,,,
+10.1016/j.nanoen.2019.06.045,Pt/f-MWCNTs,0.5M H2SO4,Pt,C,,,0.914,0.323,single atom,,multiwall carbon nanotubes,N,0.68,0.9,86.67,61.6,1.336,86.51,35,0.758,43.9,30,35.5,0.921,,,18.16
+10.1016/j.nanoen.2019.06.045,Pt/p-MWCNTs,0.5M H2SO4,Pt,C,,,1.28,0.452,nanoparticle,1,multiwall carbon nanotubes,N,1.4,0.3,,,,,,,49.5,30,48.2,,,,8.1
+10.1016/j.nanoen.2019.06.045,20 Pt/C,0.5M H2SO4,Pt,,,,56.6,20,,,,,,,,,,,,,45.2,31,67,0.0104,,,0.243
+10.1002/adfm.202000531,K2PtCl4@NC-M,0.5M H2SO4,Pt,C,,0.29,,1.92,single atom,,N-doped carbon Vulcan XC-72R,,1,1.08,,,,,,,11,21,5.7,6.1,,,5.58
+10.1002/adfm.202000531,Pt@NC-B,0.5M H2SO4,Pt,C,,0.29,,1.85,,5,N-doped carbon Vulcan XC-72R,,1,1.08,,,,,,,39,30,55,0.52,,,0.5
+10.1002/adfm.202000531,NC,0.5M H2SO4,C,,,,,0,,,Vulcan XC-72R,,,,,,,,,,,,,,,,
+10.1002/adfm.202000531,20 Pt/C,0.5M H2SO4,Pt,C,,,,20,,,,,,,,,,,,,14,32,12.3,0.36,,,0.37
+10.3390/ma13071513,PC-PtN4-900,0.5M H2SO4,Pt,C,,,,18.94,nanoparticle,5,porous carbons,N,6.26,1.06,236,3.5,0.22,,,,47,57,,,,,
+10.3390/ma13071513,PC-PtN4-600,0.5M H2SO4,Pt,C,,,,18.7,nanoparticle,4,porous carbons,N,6.98,0.94,429,3.9,0.24,,,,31,42,,,,,1.3
+10.3390/ma13071513,20 Pt/C,0.5M H2SO4,Pt,C,,,,,,,,,,,,,,,,,30,43,,,,,0.66
+10.1007/s11581-019-02933-6,Pt NIs@3D-NCHy,2.5M H2SO4,Pt,C,,,3.8,,nanoparticle,5.2,rGO/CNT,,,1.54,,,,,,,13,28.7,,1.4,,,20
+10.1007/s11581-019-02933-6,20 Pt/C,2.5M H2SO4,Pt,C,,,,20,,,,,,,,,,,,,0,30,,2.4,,,5
+10.1016/j.ijhydene.2017.02.169,Pt NIs @ f-MWCNT,2.5M H2SO4,Pt,C,,,3.8,,,5.4,CNT,,,1.32,,,,,,,84,,,6.3,,,
+10.1016/j.ijhydene.2017.02.169,20 Pt/C,2.5M H2SO4,Pt,C,,,,20,nanoparticle,,,,,,,,,,,,75,,,,,,
+10.1021/acs.jpcc.0c01043,Pt-Fe/N/C-100,0.5M H2SO4,Pt,C,Fe,,4.5,1.5,,,ZIF-derived carbon,N,,1.04,900.21,8,,,,,332,135,,,,,0.06
+10.1021/acs.jpcc.0c01043,Pt-Fe/N/C-60,0.5M H2SO4,Pt,C,Fe,,4.5,1.5,,,ZIF-derived carbon,N,,1.04,879.21,8,,,,,209,115,,,,,0.17
+10.1021/acs.jpcc.0c01043,Pt-Fe/N/C-50,0.5M H2SO4,Pt,C,Fe,,4.5,1.5,,,ZIF-derived carbon,N,,1.04,1247.81,6,,,,,188,100,,,,,0.21
+10.1021/acs.jpcc.0c01043,Pt-Fe/N/C-40,0.5M H2SO4,c,C,Fe,,4.5,1.5,,,ZIF-derived carbon,N,,1.04,586.82,5,,,,,51,48,10.5,,,,1.54
+10.1021/acs.jpcc.0c01043,Pt-Fe/N/C-30,0.5M H2SO4,Pt,C,Fe,,4.5,1.5,,,ZIF-derived carbon,N,,1.04,744.58,6,,,,,189,68,,,,,0.06
+10.1021/acs.jpcc.0c01043,Pt-N/C,0.5M H2SO4,Pt,C,,,4.5,1.5,,,ZIF-derived carbon,N,,,,,,,,,443,227,95.7,,,,0.05
+10.1021/acs.jpcc.0c01043,N/C,0.5M H2SO4,C,,,,0,0,,,ZIF-derived carbon,N,,0.98,717.92,2,,,,,,,,,,,
+10.1021/acs.jpcc.0c01043,20 Pt/C,0.5M H2SO4,Pt,C,,,,20,,,,,,,,,,,,,38,36,2.9,,,,0.25
+10.1007/s12274-019-2415-7,Fe/N/C-40,0.5M H2SO4,C,Fe,,,,,,,ZIF-derived carbon,N,6.09,,746,5,0.589,,,,,,,,,,
+10.1039/d0ta02351e,Pt-SAs/C ,0.5M H2SO4,,,,0.5,,1.26,single atom,,carbon paper,,,0.43,,,,,,,38,43,,,,,3.01
+10.1039/d0ta02351e,Pt-NP/C,0.5M H2SO4,,,,,,1.26,nanoparticle,28,carbon paper,,,,,,,,,,,,,,,,
+10.1039/d0ta02351e,20 Pt/C,0.5M H2SO4,,,,0.5,,20,,,,,,,,,,,,,36,31,,,,,0.28
+10.1016/j.apsusc.2018.09.043,3% Pt/C,0.5M H2SO4,Pt,C,,,,3,nanoparticle,,,,,,,,,,,,217,85,,,,,
+10.1016/j.apsusc.2018.09.043,10 Pt/C,0.5M H2SO4,Pt,C,,,,10,,,,,,,,,,,,,109,34,,,,,
+10.1016/j.jcis.2019.01.110,Pt78Co22 NCs/rGO,0.5M H2SO4,Pt,Co,C,,,67,nanoparticle,10.5,rGO,N,9,1.01,,,,,,,25.3,26,,,,22.87,
+10.1016/j.jcis.2019.01.110,Pt29Co71 NCs/rGO,0.5M H2SO4,Pt,Co,C,,,28,nanoparticle,10.5,rGO,N,9,1.01,,,,,,,30.3,36,,,,18.39,
+10.1016/j.jcis.2019.01.110,Pt83Co17 NCs/rGO,0.5M H2SO4,Pt,Co,C,,,76,nanoparticle,10.5,rGO,N,9,1.01,,,,,,,31.3,35,,,,14.11,
+10.1016/j.jcis.2019.01.110,20 Pt/C,0.5M H2SO4,Pt,C,C,,,20,nanoparticle,,,,,,,,,,,,37,31,,,,47.6,
+10.1016/j.cattod.2015.08.019,Pt/BCF,0.5M H2SO4,Pt,C,,,,0.87,nanoparticle,2,carbon nanofibers,,,,,,,,,,55,32,,,,,
+10.1016/j.cattod.2015.08.019,10 Pt/C,0.5M H2SO4,Pt,C,,,,10,,,,,,,,,,,,,19,24,,,,,
+10.1016/j.carbon.2019.01.087,3D Pt90Mo10@graphene,0.1M KOH,Pt,Mo,C,0.076,,16.2,nanoparticle,4.29,graphene(carbon dot),,,0.5,,,,,,,100,60,36.38,,,63.1,
+10.1016/j.carbon.2019.01.087,3D Pt75Mo25@graphene,0.1M KOH,Pt,Mo,C,0.076,,13.9,nanoparticle,4.38,graphene(carbon dot),,,0.5,,,,,,,97,51,17.3,,,67.5,
+10.1016/j.carbon.2019.01.087,3D Pt50Mo50@graphene,0.1M KOH,Pt,Mo,C,0.076,,9.9,nanoparticle,4.04,graphene(carbon dot),,,0.5,,,,,,,114,33,90.37,,,59.2,
+10.1016/j.carbon.2019.01.087,3D Pt25Mo75@graphene,0.1M KOH,Pt,Mo,C,0.076,,5.3,nanoparticle,2.21,graphene(carbon dot),,,0.5,,,,,,,132,89,117.3,,,56.5,
+10.1016/j.carbon.2019.01.087,20 Pt/C,0.1M KOH,Pt,C,,0.076,,20,nanoparticle,,,,,,,,,,,,128,59,48.05,,,58.1,
+10.1016/j.carbon.2019.01.087,3D Pt90Mo10@graphene,0.5M H2SO4,Pt,Mo,C,0.076,,16.2,nanoparticle,4.29,graphene(carbon dot),,,0.5,,,,,,,37,39,36.38,,,63.1,
+10.1016/j.carbon.2019.01.087,3D Pt75Mo25@graphene,0.5M H2SO4,Pt,Mo,C,0.076,,13.9,nanoparticle,4.38,graphene(carbon dot),,,0.5,,,,,,,32,32,17.3,,,67.5,
+10.1016/j.carbon.2019.01.087,3D Pt50Mo50@graphene,0.5M H2SO4,Pt,Mo,C,0.076,,9.9,nanoparticle,4.04,graphene(carbon dot),,,0.5,,,,,,,40,45,90.37,,,59.2,
+10.1016/j.carbon.2019.01.087,3D Pt25Mo75@graphene,0.5M H2SO4,Pt,Mo,C,0.076,,5.3,nanoparticle,2.21,graphene(carbon dot),,,0.5,,,,,,,47,53,117.3,,,56.5,
+10.1016/j.carbon.2019.01.087,20 Pt/C,0.5M H2SO4,Pt,C,,0.076,,20,nanoparticle,,,,,,,,,,,,42,36,48.05,,,58.1,
+10.1016/j.apcatb.2019.118582,Pt/SWNT-O3,0.5M H2SO4,Pt,C,,0.2,0.34,3.9,nanowire,1.01,SWCNT,O,4.6,,,,,,,,18,107,,,,29,
+10.1016/j.apcatb.2019.118582,20 Pt/C,0.5M H2SO4,Pt,C,,0.2,38,20,nanoparticle,,,,,,,,,,,,16,,,,,35,
+10.1016/j.carbon.2018.10.054,Pt1Co9@N-C,0.5M H2SO4,Pt,Co,C,,193,,nanoparticle,5.8,MOF-devrived carbon,N,,1.1,30.52,,0.0352,,,,36.7,49,22.2,0.64,,,
+10.1016/j.carbon.2018.10.054,Pt2Co8@N-C,0.5M H2SO4,Pt,Co,C,,278,,nanoparticle,7.8,MOF-devrived carbon,N,,1.1,33.35,,0.0347,,,,22.4,48,10,1.13,,,
+10.1016/j.carbon.2018.10.054,Pt3Co7@N-C,0.5M H2SO4,Pt,Co,C,,390,,nanoparticle,12.2,MOF-devrived carbon,N,,1.1,29.91,,0.0323,,,,35.7,59,11.1,0.84,,,
+10.1016/j.carbon.2018.10.054,20 Pt/C,0.5M H2SO4,Pt,C,,,,20,nanoparticle,,,,,,,,,,,,31.6,33,,,,,
+10.1039/c9cy02285f,Pt0.1Ru0.9NP/OMC ,0.5M H2SO4,Pt,Ru,C,,0.14,0.3,nanoparticle,1.6,ordered mesoporous carbon films,,,,1349,4.3,1.3,,,,46.7,42,,,,,
+10.1039/c9cy02285f,Pt0.06Ru0.94NP/OMC ,0.5M H2SO4,Pt,Ru,C,,0.06,0.18,nanoparticle,1.6,ordered mesoporous carbon films,,,,1349,4.3,1.3,,,,55.5,41,,,,,
+10.1039/c9cy02285f,PtNP/OMC ,0.5M H2SO4,Pt,C,,,1.1,5.2,nanoparticle,1.6,ordered mesoporous carbon films,,,,1349,4.3,1.3,,,,33,31,,,,,
+10.1039/c9cy02285f,10 Pt/C,0.5M H2SO4,Pt,C,,,1,10,nanoparticle,,Vulcan,,,,,,,,,,30,30,,,,,
+10.1002/admi.201900565,Nb CNF-Pt,1 M KOH,Pt,Nb,C,0.03,0.3,,nanoparticle,1.1,carbon nanofiber,N,4.15,1.12,,,,,,,37,38,,,,,
+10.1002/admi.201900565,20 Pt/C,1 M KOH,Pt,C,,,,20,nanoparticle,3.5,,,,,,,,,,,95,129,,,,,
+10.1016/j.electacta.2016.09.158,AuPt@Pt NCs/rGO,0.5 M H2SO4,Pt,Au,C,,,33,nanocrystal,23.5,rGO,,,1.29,,,,,,,60,33,,,,88.57,
+10.1016/j.electacta.2016.09.158,20 Pt/C,0.5 M H2SO4,Pt,C,,,,20,nanoparticle,,,,,,,,,,,,49,31,,,,60.32,
+10.1021/acscatal.9b02305,AC Pt-NG/C,0.5 M H2SO4,Pt,C,N,0.283,,2,single atom,0.61,rGO,N,12.08,1.13,272,,,282,,,35.28,31,,0.927,,,6.508
+10.1021/acscatal.9b02305,1-Pt-NG/C,0.5 M H2SO4,Pt,C,N,0.283,,1,single atom,0.54,rGO,N,12.08,1.13,263,,,282,,,47.2,27,,0.085,,,4.456
+10.1021/acscatal.9b02305,0.5-Pt-NG/C,0.5 M H2SO4,Pt,C,N,0.283,,0.5,single atom,,rGO,N,12.08,1.13,,,,282,,,66.1,,,,,,
+10.1021/acscatal.9b02305,0.25-Pt-NG/C,0.5 M H2SO4,Pt,C,N,0.283,,0.25,single atom,,rGO,N,12.08,1.13,,,,282,,,95.75,,,,,,
+10.1021/acscatal.9b02305,20 Pt/C Macklin,0.5 M H2SO4,Pt,C,,0.283,,,nanoparticle,3.32,,,,,,,,200.1,12.8,0.427,42.03,31,,0.00915,,,0.309
+10.1021/acscatal.7b02246,PyPOP-Pt@G,1 M H2SO4,Pt,C,,,66.7,5.4,single atom,,graphene,,,,122,15,,,,,26,37,,,,,0.373
+10.1002/anie.201902107,A-CoPt-NC,0.5 M H2SO4,Pt,Co,C,0.262,0.419,0.16,single atom,,MOF-derived carbon,,,,,,,,,,27,31,,,,,
+10.1002/anie.201902107,A-CoPt-NC,1 M KOH,Pt,Co,C,0.262,0.419,0.16,single atom,,MOF-derived carbon,,,,,,,,,,50,48,,,,,
+10.1002/anie.201902107,20 Pt/C,0.5 M H2SO4,Pt,C,,0.262,,20,nanoparticle,,,,,,,,,,,,56,31,,,,,
+10.1002/anie.201902107,20 Pt/C,1 M KOH,Pt,C,,0.262,,20,nanoparticle,,,,,,,,,,,,61,56,,,,,
+10.1016/j.jcis.2019.10.062,Pt1Cu1.1/NPC,0.5 M H2SO4,Pt,C,Cu,0.25,42,,nanoparticle,4.5,MOF-derived carbon,,,1.04,30.5,3,,,,,13,34,,,,,0.203
+10.1016/j.jcis.2019.10.062,Pt/NPC,0.5 M H2SO4,Pt,C,,0.25,60,,nanoparticle,6,MOF-derived carbon,,,1.03,25.6,3,,,,,34,37,,,,,0.069
+10.1016/j.jcis.2019.10.062,20 Pt/C,0.5 M H2SO4,Pt,C,,0.25,,20,nanoparticle,,,,,,,,,,,,20,44,,,,,
+10.1007/s10853-017-1030-9,Pt¨CAuNPs/CNF,0.5 M H2SO4,Pt,C,Au,,,3.09,nanoparticle,5,carbon nanofiber,Au,5.89,,,,,,,,235,84,,,,,
+10.1007/s10853-017-1030-9,20 Pt/C,0.5 M H2SO4,Pt,C,,,,20,nanoparticle,,,,,,,,,,,,45,34,,,,,
+10.1016/j.jcis.2018.06.096,Pt@NOMC-A,0.5 M H2SO4,Pt,C,,0.5,,7.2,nanoparticle,3.76,N-doped ordered mesoporous carbon,N,3.53,,,,,2871,1.96,,8,43,0.3,,,34.52,
+10.1016/j.jcis.2018.06.096,Pt@NOMC-A,1 M KOH,Pt,C,,0.5,,7.2,nanoparticle,3.76,N-doped ordered mesoporous carbon,N,3.53,,,,,2871,1.96,,41,52,0.3,,,34.52,
+10.1016/j.jcis.2018.06.096,Pt@NOMC-A,1 M PBS,Pt,C,,0.5,,7.2,nanoparticle,3.76,N-doped ordered mesoporous carbon,N,3.53,,,,,2871,1.96,,65,70,0.3,,,34.52,
+10.1016/j.jcis.2018.06.096,Pt@NOMC-700,0.5 M H2SO4,Pt,C,,0.5,,7.2,nanoparticle,3.76,N-doped ordered mesoporous carbon,N,2.29,,,,,766,5.1,,91,88,,,,,
+10.1016/j.jcis.2018.06.096,20 Pt/C,0.5 M H2SO4,Pt,C,,0.5,,20,nanoparticle,,,,0,,,,,,,,7,36,1.38,,,21.08,
+10.1016/j.jcis.2018.06.096,20 Pt/C,1 M KOH,Pt,C,,0.5,,20,nanoparticle,,,,0,,,,,,,,51,55,,,,,
+10.1016/j.jcis.2018.06.096,20 Pt/C,1 M PBS,Pt,C,,0.5,,20,nanoparticle,,,,0,,,,,,,,75,80,,,,,
+10.1038/s41467-019-12851-w,PtSA/S¨CC,0.5 M H2SO4,Pt,C,S,,2.55,4,single atom,,S-doped carbons,S,12,,,,,1135,10.7,3.04,53,46.92,,,,,0.964
+10.1038/s41467-019-12851-w,PtNC/S¨CC,0.5 M H2SO4,Pt,C,S,,2.55,4,nanocluster,1.56,S-doped carbons,S,12,,,,,1135,10.7,3.04,11,23.51,,,,,26.1
+10.1038/s41467-019-12851-w,20 Pt/C,0.5 M H2SO4,Pt,C,,,10.2,20,nanoparticle,,,,,,,,,,,,22,29.01,,,,,0.684
+10.1016/j.electacta.2019.06.116,Pt-Ni3S2/NHCSs,1 M KOH,Pt,C,Ni,,3.6,1.26,nanoparticle,4.2,N-doped carbon nanospheres,,,1,604.94,1.5,1.28,,,,42,42,,,,,7.6
+10.1016/j.electacta.2019.06.116,Pt/NHCSs,1 M KOH,Pt,C,,,3.6,2.17,nanoparticle,4,N-doped carbon nanospheres,,,1,604.94,1.5,1.28,,,,65,61,,,,,3.18
+10.1016/j.electacta.2019.06.116,20 Pt/C,1 M KOH,Pt,C,,,3.6,20,nanoparticle,,,,,,,,,,,,151,116,,,,,0.89
+10.1016/j.jpowsour.2015.03.131,Pt-CNSs/RGO,0.5 M H2SO4,Pt,C,,,78,47.25,,3.5,,,,1.12,,,,,,,77,29,55,,,23.4,
+10.1016/j.jpowsour.2015.03.131,Pt-CNSs,0.5 M H2SO4,Pt,C,,,170,,,3.5,,,,,,,,,,,95,38,130,,,19.1,
+10.1016/j.jpowsour.2015.03.131,20 Pt/C,0.5 M H2SO4,Pt,C,,,,20,,,,,,,,,,,,,,30,,,,,
+10.1021/acs.jpcc.7b08283,0.5wt% Pt?MoO2/MWCNTs,0.5 M H2SO4,Pt,C,Mo,0.47,,0.5,nanoparticle,,MWCNTs ,Mo,15,0.1,,,,28,,,60,43,22,2.8,,19,
+10.1021/acs.jpcc.7b08283,0.1wt% Pt?MoO2/MWCNTs,0.5 M H2SO4,Pt,C,Mo,0.47,,0.1,nanoparticle,,MWCNTs ,Mo,15,0.1,,,,28,,,61.3,,,,,,
+10.1021/acs.jpcc.7b08283,1.5wt% Pt?MoO2/MWCNTs,0.5 M H2SO4,Pt,C,Mo,0.47,,1.5,nanoparticle,,MWCNTs ,Mo,15,0.1,,,,28,,,66,,,,,,
+10.1021/acs.jpcc.7b08283,3wt% Pt?MoO2/MWCNTs,0.5 M H2SO4,Pt,C,Mo,0.47,,3,nanoparticle,,MWCNTs ,Mo,15,0.1,,,,28,,,69,,,,,,
+10.1021/acs.jpcc.7b08283,20 Pt/C,0.5 M H2SO4,Pt,C,,0.47,,20,nanoparticle,,,,,,,,,,,,39,31,,,,87,
+10.1021/acsami.9b20781,1ZIF-67-Pt/RGO,0.5 M H2SO4,Pt,C,,,10,20.3,nanoparticle,4.24,rGO,,,,,,,,,,18.2,13.7,,,,36.1,
+10.1021/acsami.9b20781,3ZIF-67-Pt/RGO,0.5 M H2SO4,Pt,C,,,10,17.2,nanoparticle,3.05,rGO,,,,,,,,,,14.3,12.5,,,,55.8,
+10.1021/acsami.9b20781,5ZIF-67-Pt/RGO,0.5 M H2SO4,Pt,C,,,10,15.7,nanoparticle,2.93,rGO,,,,,,,,,,16.5,13.6,,,,46.7,
+10.1021/acsami.9b20781,Pt/RGO,0.5 M H2SO4,Pt,C,,,10,22.3,nanoparticle,5.31,rGO,,,,,,,,,,29,18.2,,,,23,
+10.1021/acsami.9b20781,20 Pt/C,0.5 M H2SO4,Pt,C,,,10,20,nanoparticle,,,,,,,,,,,,23.1,17.3,,,,60,
+10.1021/acsami.9b20781,1ZIF-67-Pt/RGO,1 M KOH,Pt,C,,,10,20.3,nanoparticle,4.24,rGO,,,,,,,,,,63,37.5,,,,36.1,
+10.1021/acsami.9b20781,3ZIF-67-Pt/RGO,1 M KOH,Pt,C,,,10,17.2,nanoparticle,3.05,rGO,,,,,,,,,,37.2,33.1,,,,55.8,
+10.1021/acsami.9b20781,5ZIF-67-Pt/RGO,1 M KOH,Pt,C,,,10,15.7,nanoparticle,2.93,rGO,,,,,,,,,,48.4,33.9,,,,46.7,
+10.1021/acsami.9b20781,Pt/RGO,1 M KOH,Pt,C,,,10,22.3,nanoparticle,5.31,rGO,,,,,,,,,,108,43.1,,,,23,
+10.1021/acsami.9b20781,20 Pt/C,1 M KOH,Pt,C,,,10,20,nanoparticle,,,,,,,,,,,,92.1,40.8,,,,60,
+10.1016/j.jelechem.2018.05.013,PtPd@NLS,0.5 M H2SO4,Pt,C,,,,6.95,nanoparticle,2.5,actived carbon,N,37.69,0.55,,,,2809.7,,,29,23,,,,,
+10.1016/j.jelechem.2018.05.013,Pt@NLS,0.5 M H2SO4,Pt,C,,,,14,nanoparticle,2.5,actived carbon,N,37.69,0.55,,,,2809.7,,,58,40,,,,,
+10.1016/j.jelechem.2018.05.013,10 Pt/C,0.5 M H2SO4,Pt,C,,,,10,nanoparticle,,,,,,,,,,,,41,29,,,,,
+10.1016/j.jelechem.2018.05.013,PtPd@NLS,1 M KOH,Pt,C,,,,6.95,nanoparticle,2.5,actived carbon,N,37.69,0.55,,,,2809.7,,,46,124,,,,,
+10.1016/j.jelechem.2018.05.013,Pt@NLS,1 M KOH,Pt,C,,,,14,nanoparticle,2.5,actived carbon,N,37.69,0.55,,,,2809.7,,,50,97,,,,,
+10.1016/j.jelechem.2018.05.013,10 Pt/C,1 M KOH,Pt,C,,,,10,nanoparticle,,,,,,,,,,,,64,133,,,,,
